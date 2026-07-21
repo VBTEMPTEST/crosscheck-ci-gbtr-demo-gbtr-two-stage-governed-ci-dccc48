@@ -1,0 +1,17 @@
+{
+  "runId": "cmru9hsx6000kgayw5czfyjxd",
+  "releaseRevisionId": "cmru9hsyb0016gaywu5tnxmyo",
+  "revisionHash": "69c7c6700528e83a98f356405f3d5488b8b89260e1683eb638aca0cc669eed73",
+  "targetPlanId": "cmru9ht240009gaa526tk5n4e",
+  "artifactHash": "69c7c6700528e83a98f356405f3d5488b8b89260e1683eb638aca0cc669eed73",
+  "artifactTreeHash": "69c7c6700528e83a98f356405f3d5488b8b89260e1683eb638aca0cc669eed73",
+  "items": [
+    {
+      "stableKey": "sdf_object:customlist:customlist12",
+      "contentHash": "0881c99493f0735d631d88318a9283b7a12a42e54947310aeaa0089345c51374",
+      "rawXml": "<customlist scriptid=\"customlist12\">\n  <description></description>\n  <isinactive>F</isinactive>\n  <isordered>T</isordered>\n  <name>YesNo</name>\n  <customvalues>\n    <customvalue scriptid=\"value_1_t1441298_886\">\n      <isinactive>F</isinactive>\n      <value>Yes</value>\n    </customvalue>\n    <customvalue scriptid=\"value_2_t1441298_886\">\n      <isinactive>F</isinactive>\n      <value>No</value>\n    </customvalue>\n  </customvalues>\n</customlist>\n",
+      "scriptContent": null,
+      "fileContent": null
+    }
+  ]
+}
