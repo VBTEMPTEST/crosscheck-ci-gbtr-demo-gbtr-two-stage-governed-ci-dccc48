@@ -1,0 +1,17 @@
+{
+  "runId": "cmrur79p60004gao2gwyxbhs9",
+  "releaseRevisionId": "cmrur79q9000qgao2sf7qwaj4",
+  "revisionHash": "fdf89ab8a9170b430456f3de4c4d9736c8f3c9dbe9f4faf4c987001331bca9ea",
+  "targetPlanId": "cmrur79uz0009gao1ijuhp8os",
+  "artifactHash": "fdf89ab8a9170b430456f3de4c4d9736c8f3c9dbe9f4faf4c987001331bca9ea",
+  "artifactTreeHash": "fdf89ab8a9170b430456f3de4c4d9736c8f3c9dbe9f4faf4c987001331bca9ea",
+  "items": [
+    {
+      "stableKey": "sdf_object:customlist:customlist12",
+      "contentHash": "80100c8cc1a08fc24941ba3019d5db0dba4facb76ecfc5299239438deb5d6efa",
+      "rawXml": "<customlist scriptid=\"customlist12\">\n  <description></description>\n  <isinactive>F</isinactive>\n  <isordered>T</isordered>\n  <name>YesNo</name>\n  <customvalues>\n    <customvalue scriptid=\"value_1_t1441298_886\">\n      <isinactive>F</isinactive>\n      <value>Yes</value>\n    </customvalue>\n    <customvalue scriptid=\"value_2_t1441298_886\">\n      <isinactive>F</isinactive>\n      <value>No</value>\n    </customvalue>\n  </customvalues>\n</customlist>",
+      "scriptContent": null,
+      "fileContent": null
+    }
+  ]
+}
